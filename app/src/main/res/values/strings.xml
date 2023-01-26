@@ -10,4 +10,8 @@
     <string name="sign_up">Sign up</string>
     <string name="email">Email</string>
     <string name="an_account">Already have an account?</string>
+    <string name="accont">Accont</string>
+    <string name="calendar">Calendar</string>
+    <string name="home">Home</string>
+    <string name="graph">Graph</string>
 </resources>
