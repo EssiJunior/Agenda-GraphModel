@@ -14,4 +14,7 @@
     <string name="calendar">Calendar</string>
     <string name="home">Home</string>
     <string name="graph">Graph</string>
+    <string name="hello">Hello, Essi Junior</string>
+    <string name="recommended_food">Recommended food</string>
+    <string name="foods_eaten">Foods eaten</string>
 </resources>
